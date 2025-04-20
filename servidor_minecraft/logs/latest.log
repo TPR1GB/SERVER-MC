@@ -143,3 +143,8 @@ java.nio.file.NoSuchFileException: server.properties
 [01:40:09] [Server thread/INFO]: <xArgon_SB> XD
 [01:40:12] [Server thread/INFO]: xTPR_MC was slain by Iron Golem
 [01:48:50] [Server thread/INFO]: The difficulty has been set to Hard
+[01:58:24] [Server thread/INFO]: xTPR_MC lost connection: Timed out
+[01:58:24] [Server thread/INFO]: xTPR_MC left the game
+[01:59:59] [User Authenticator #5/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
+[01:59:59] [Server thread/INFO]: xTPR_MC[/127.196.172.124:60951] logged in with entity id 36500 at (-587.4725590283795, 66.0, -1389.2580889436654)
+[01:59:59] [Server thread/INFO]: xTPR_MC joined the game
