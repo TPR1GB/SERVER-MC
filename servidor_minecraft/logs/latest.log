@@ -148,3 +148,18 @@ java.nio.file.NoSuchFileException: server.properties
 [01:59:59] [User Authenticator #5/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
 [01:59:59] [Server thread/INFO]: xTPR_MC[/127.196.172.124:60951] logged in with entity id 36500 at (-587.4725590283795, 66.0, -1389.2580889436654)
 [01:59:59] [Server thread/INFO]: xTPR_MC joined the game
+[02:11:10] [Server thread/INFO]: xArgon_SB lost connection: Disconnected
+[02:11:10] [Server thread/INFO]: xArgon_SB left the game
+[02:11:12] [Server thread/INFO]: Stopping the server
+[02:11:13] [Server thread/INFO]: Stopping server
+[02:11:13] [Server thread/INFO]: Saving players
+[02:11:13] [Server thread/INFO]: xTPR_MC lost connection: Server closed
+[02:11:13] [Server thread/INFO]: xTPR_MC left the game
+[02:11:13] [Server thread/INFO]: Saving worlds
+[02:11:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:11:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:11:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:11:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:11:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:11:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:11:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
