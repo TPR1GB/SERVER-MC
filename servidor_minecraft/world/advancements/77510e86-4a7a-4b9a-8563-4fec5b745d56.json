@@ -453,12 +453,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-21 20:44:01 +0000",
       "chicken": "2025-04-20 01:26:34 +0000",
       "cooked_mutton": "2025-04-20 00:31:30 +0000",
       "cooked_beef": "2025-04-20 00:54:35 +0000",
       "apple": "2025-04-20 01:23:28 +0000",
       "bread": "2025-04-20 00:50:10 +0000",
       "rotten_flesh": "2025-04-20 01:26:37 +0000",
+      "glow_berries": "2025-04-21 20:31:25 +0000",
       "golden_carrot": "2025-04-20 00:36:27 +0000",
       "carrot": "2025-04-20 01:32:42 +0000"
     },
@@ -1208,6 +1210,30 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-04-20 04:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-21 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-21 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-04-21 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-21 20:38:21 +0000"
     },
     "done": true
   },
