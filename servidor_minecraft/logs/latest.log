@@ -43,3 +43,22 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18:26:00] [Server thread/INFO]: NicoPeMC has made the advancement [Cover Me with Diamonds]
 [18:34:06] [Server thread/INFO]: <xArgon_SB> xd
 [18:34:08] [Server thread/INFO]: NicoPeMC has made the advancement [Diamonds!]
+[18:49:00] [Server thread/INFO]: <NicoPeMC> hdpt
+[18:49:04] [Server thread/INFO]: <xArgon_SB> XD
+[18:49:07] [Server thread/INFO]: <xTPR_MC> xd
+[18:49:23] [Server thread/INFO]: <NicoPeMC> Apoco si
+[18:49:28] [Server thread/INFO]: <NicoPeMC> :hoysecome:
+[18:51:19] [Server thread/INFO]: <NicoPeMC> tonoto
+[18:52:34] [Server thread/INFO]: NicoPeMC has made the advancement [Take Aim]
+[18:52:59] [Server thread/INFO]: xArgon_SB has made the advancement [A Seedy Place]
+[18:53:46] [Server thread/INFO]: Stopping the server
+[18:53:46] [Server thread/INFO]: Stopping server
+[18:53:46] [Server thread/INFO]: Saving players
+[18:53:46] [Server thread/INFO]: Saving worlds
+[18:53:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:53:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:53:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:53:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:53:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:53:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:53:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
