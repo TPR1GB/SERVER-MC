@@ -37,3 +37,7 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18:13:36] [Server thread/INFO]: xTPR_MC[/127.196.172.124:57843] logged in with entity id 847 at (-570.5840950189117, 67.0, -1376.24265539836)
 [18:13:36] [Server thread/INFO]: xTPR_MC joined the game
 [18:18:02] [Server thread/INFO]: xArgon_SB has made the advancement [What a Deal!]
+[18:20:46] [User Authenticator #3/INFO]: UUID of player NicoPeMC is 92ed71d5-fb1f-43c2-a9e4-e661993f2a3e
+[18:20:46] [Server thread/INFO]: NicoPeMC[/127.241.141.254:33299] logged in with entity id 3880 at (-567.4179406102711, 65.0, -1372.5492453982095)
+[18:20:46] [Server thread/INFO]: NicoPeMC joined the game
+[18:26:00] [Server thread/INFO]: NicoPeMC has made the advancement [Cover Me with Diamonds]
