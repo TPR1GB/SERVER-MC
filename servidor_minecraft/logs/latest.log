@@ -1,28 +1,27 @@
-[20:30:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:30:12] [ServerMain/INFO]: Loaded 7 recipes
-[20:30:12] [ServerMain/INFO]: Loaded 1271 advancements
-[20:30:12] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[20:30:12] [Server thread/INFO]: Loading properties
-[20:30:12] [Server thread/INFO]: Default game type: SURVIVAL
-[20:30:12] [Server thread/INFO]: Generating keypair
-[20:30:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:30:12] [Server thread/INFO]: Using epoll channel type
-[20:30:12] [Server thread/INFO]: Preparing level "world"
-[20:30:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:30:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:30:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:30:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:30:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:30:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:30:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:30:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:30:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:30:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:30:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:30:20] [Worker-Main-3/INFO]: Preparing spawn area: 31%
-[20:30:20] [Server thread/INFO]: Time elapsed: 5463 ms
-[20:30:20] [Server thread/INFO]: Done (7.928s)! For help, type "help"
-[20:30:20] [Server thread/ERROR]: Couldn't load server icon
+[18:08:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:08:44] [ServerMain/INFO]: Loaded 7 recipes
+[18:08:44] [ServerMain/INFO]: Loaded 1271 advancements
+[18:08:45] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[18:08:45] [Server thread/INFO]: Loading properties
+[18:08:45] [Server thread/INFO]: Default game type: SURVIVAL
+[18:08:45] [Server thread/INFO]: Generating keypair
+[18:08:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:08:45] [Server thread/INFO]: Using epoll channel type
+[18:08:45] [Server thread/INFO]: Preparing level "world"
+[18:08:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:08:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:08:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:08:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:08:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:08:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:08:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:08:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:08:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:08:51] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[18:08:52] [Worker-Main-1/INFO]: Preparing spawn area: 65%
+[18:08:52] [Server thread/INFO]: Time elapsed: 4689 ms
+[18:08:52] [Server thread/INFO]: Done (6.973s)! For help, type "help"
+[18:08:52] [Server thread/ERROR]: Couldn't load server icon
 java.lang.IllegalStateException: Must be 64 pixels wide
 	at com.google.common.base.Preconditions.checkState(Preconditions.java:502) ~[guava-31.1-jre.jar:?]
 	at net.minecraft.server.MinecraftServer.j(SourceFile:792) ~[server-1.20.1.jar:?]
@@ -31,48 +30,10 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 	at net.minecraft.server.MinecraftServer.w(SourceFile:649) ~[server-1.20.1.jar:?]
 	at net.minecraft.server.MinecraftServer.a(SourceFile:265) ~[server-1.20.1.jar:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[20:30:33] [User Authenticator #1/INFO]: UUID of player xArgon_SB is fca2f36c-0fe1-485c-99df-a61318f42e70
-[20:30:33] [Server thread/INFO]: xArgon_SB[/127.151.124.92:44159] logged in with entity id 99 at (-571.4906857358369, 67.0, -1374.300000011921)
-[20:30:33] [Server thread/INFO]: xArgon_SB joined the game
-[20:30:55] [User Authenticator #2/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
-[20:30:55] [Server thread/INFO]: xTPR_MC[/127.196.172.124:48193] logged in with entity id 397 at (-555.1005068880303, 63.0, -1385.2782748952216)
-[20:30:55] [Server thread/INFO]: xTPR_MC joined the game
-[20:36:13] [User Authenticator #3/INFO]: UUID of player NicoPeMC is 92ed71d5-fb1f-43c2-a9e4-e661993f2a3e
-[20:36:13] [Server thread/INFO]: NicoPeMC[/127.241.141.254:47825] logged in with entity id 1578 at (4.5, 67.0, -9.5)
-[20:36:13] [Server thread/INFO]: NicoPeMC joined the game
-[20:36:36] [Server thread/INFO]: <xTPR_MC> -538 -1307
-[20:37:28] [Server thread/INFO]: xTPR_MC lost connection: Disconnected
-[20:37:28] [Server thread/INFO]: xTPR_MC left the game
-[20:37:33] [User Authenticator #4/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
-[20:37:33] [Server thread/INFO]: xTPR_MC[/127.196.172.124:35199] logged in with entity id 2285 at (-542.5472537141777, 69.0, -1293.0229068093063)
-[20:37:33] [Server thread/INFO]: xTPR_MC joined the game
-[20:37:49] [Server thread/INFO]: xTPR_MC lost connection: Disconnected
-[20:37:49] [Server thread/INFO]: xTPR_MC left the game
-[20:37:52] [User Authenticator #5/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
-[20:37:52] [Server thread/INFO]: xTPR_MC[/127.196.172.124:52397] logged in with entity id 2660 at (-542.5472537141777, 69.0, -1293.0229068093063)
-[20:37:52] [Server thread/INFO]: xTPR_MC joined the game
-[20:44:07] [Server thread/INFO]: NicoPeMC has made the advancement [Sweet Dreams]
-[20:46:44] [Server thread/INFO]: NicoPeMC has made the advancement [Acquire Hardware]
-[20:46:59] [Server thread/INFO]: NicoPeMC has made the advancement [Stone Age]
-[20:48:55] [Server thread/INFO]: NicoPeMC has made the advancement [Monster Hunter]
-[20:51:00] [Server thread/INFO]: <xTPR_MC> discord
-[20:51:04] [Server thread/INFO]: <xTPR_MC> fiscord
-[20:51:08] [Server thread/INFO]: <xTPR_MC> XDD
-[20:54:13] [Server thread/INFO]: NicoPeMC has made the advancement [Getting an Upgrade]
-[20:57:27] [Server thread/INFO]: xTPR_MC lost connection: Disconnected
-[20:57:27] [Server thread/INFO]: xTPR_MC left the game
-[20:58:53] [User Authenticator #6/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
-[20:58:53] [Server thread/INFO]: xTPR_MC[/127.196.172.124:36889] logged in with entity id 9222 at (-559.6999999880791, 63.5625, -1379.300000011921)
-[20:58:53] [Server thread/INFO]: xTPR_MC joined the game
-[21:01:07] [Server thread/INFO]: NicoPeMC has made the advancement [What a Deal!]
-[21:02:35] [Server thread/INFO]: <NicoPeMC> Zzzzz
-[21:02:38] [Server thread/INFO]: <NicoPeMC> Zzzzz
-[21:02:42] [Server thread/INFO]: <NicoPeMC> Zz Zz Zz
-[21:07:28] [Server thread/INFO]: <NicoPeMC> :hoysecome:
-[21:08:30] [Server thread/INFO]: NicoPeMC was slain by xTPR_MC
-[21:08:32] [Server thread/INFO]: <xArgon_SB> XD
-[21:13:17] [Server thread/INFO]: <xArgon_SB> XD
-[21:15:49] [Server thread/INFO]: NicoPeMC has made the advancement [Suit Up]
-[21:19:19] [Server thread/INFO]: <NicoPeMC> kfc
-[21:19:31] [Server thread/INFO]: <NicoPeMC> Osea
-[21:19:36] [Server thread/INFO]: <NicoPeMC> Afk
+[18:09:54] [User Authenticator #1/INFO]: UUID of player xArgon_SB is fca2f36c-0fe1-485c-99df-a61318f42e70
+[18:09:54] [Server thread/INFO]: xArgon_SB[/127.246.80.119:52227] logged in with entity id 101 at (-571.2364730342356, 68.5, -1372.642716253294)
+[18:09:54] [Server thread/INFO]: xArgon_SB joined the game
+[18:13:36] [User Authenticator #2/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
+[18:13:36] [Server thread/INFO]: xTPR_MC[/127.196.172.124:57843] logged in with entity id 847 at (-570.5840950189117, 67.0, -1376.24265539836)
+[18:13:36] [Server thread/INFO]: xTPR_MC joined the game
+[18:18:02] [Server thread/INFO]: xArgon_SB has made the advancement [What a Deal!]
