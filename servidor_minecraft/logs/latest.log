@@ -1,16 +1,16 @@
-[16:57:33] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[16:57:33] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[16:57:33] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[16:57:34] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[16:57:34] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[17:39:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[17:39:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[17:39:11] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:39:13] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[17:39:13] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - Skript (2.9.5), WorldEdit (7.3.5+6880-8ba3d89)
-[16:57:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:57:44] [ServerMain/INFO]: Loaded 1290 recipes
-[16:57:44] [ServerMain/INFO]: Loaded 1399 advancements
-[16:57:44] [Server thread/INFO]: Starting minecraft server version 1.21
-[16:57:44] [Server thread/INFO]: Loading properties
-[16:57:45] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[16:57:46] [Server thread/WARN]: Couldn't load server icon
+[17:39:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:39:30] [ServerMain/INFO]: Loaded 1290 recipes
+[17:39:30] [ServerMain/INFO]: Loaded 1399 advancements
+[17:39:31] [Server thread/INFO]: Starting minecraft server version 1.21
+[17:39:31] [Server thread/INFO]: Loading properties
+[17:39:31] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[17:39:33] [Server thread/WARN]: Couldn't load server icon
 java.lang.IllegalArgumentException: BufferedImage must be 64 pixels wide (65)
 	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:191) ~[guava-32.1.2-jre.jar:?]
 	at org.bukkit.craftbukkit.CraftServer.loadServerIcon0(CraftServer.java:2670) ~[paper-1.21.jar:1.21-130-b1b5d4c]
@@ -23,39 +23,39 @@ java.lang.IllegalArgumentException: BufferedImage must be 64 pixels wide (65)
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[16:57:46] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[16:57:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:57:46] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:57:47] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[16:57:47] [Server thread/INFO]: Default game type: SURVIVAL
-[16:57:47] [Server thread/INFO]: Generating keypair
-[16:57:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:57:48] [Server thread/INFO]: Using epoll channel type
-[16:57:48] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[16:57:48] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[16:57:48] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.9.5
-[16:57:48] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.5+6880-8ba3d89
-[16:57:51] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@cf67afc]
-[16:57:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:57:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.5+6880-8ba3d89
-[16:57:51] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[16:57:51] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[16:57:53] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
-[16:57:55] [Server thread/INFO]: Preparing level "world"
-[16:57:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:57:56] [Server thread/INFO]: Time elapsed: 586 ms
-[16:57:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:57:57] [Server thread/INFO]: Time elapsed: 538 ms
-[16:57:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:57:57] [Server thread/INFO]: Time elapsed: 428 ms
-[16:57:57] [Server thread/INFO]: [Skript] Enabling Skript v2.9.5
-[16:57:59] [Thread-8/INFO]: [Skript] A new version of Skript is available: 2.11.0 (you're currently running 2.9.5)
-[16:57:59] [Thread-8/INFO]: Download it at: <aqua><u><link:https://github.com/SkriptLang/Skript/releases/download/2.11.0/Skript-2.11.0.jar>https://github.com/SkriptLang/Skript/releases/download/2.11.0/Skript-2.11.0.jar
-[16:58:13] [Server thread/INFO]: [Skript] Loaded 233074 aliases in 15067ms
-[16:58:15] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
-[16:58:16] [Server thread/INFO]: [spark] Starting background profiler...
-[16:58:16] [Server thread/INFO]: Done preparing level "world" (21.289s)
-[16:58:16] [Server thread/ERROR]: Couldn't load server icon
+[17:39:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:39:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:39:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:39:36] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[17:39:36] [Server thread/INFO]: Default game type: SURVIVAL
+[17:39:36] [Server thread/INFO]: Generating keypair
+[17:39:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:39:37] [Server thread/INFO]: Using epoll channel type
+[17:39:37] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:39:37] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:39:38] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.9.5
+[17:39:38] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.5+6880-8ba3d89
+[17:39:43] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@56b486b3]
+[17:39:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:39:43] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.5+6880-8ba3d89
+[17:39:43] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:39:43] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:39:45] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[17:39:48] [Server thread/INFO]: Preparing level "world"
+[17:39:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:39:51] [Server thread/INFO]: Time elapsed: 968 ms
+[17:39:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:39:53] [Server thread/INFO]: Time elapsed: 1930 ms
+[17:39:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:39:54] [Server thread/INFO]: Time elapsed: 790 ms
+[17:39:54] [Server thread/INFO]: [Skript] Enabling Skript v2.9.5
+[17:39:56] [Thread-8/INFO]: [Skript] A new version of Skript is available: 2.11.0 (you're currently running 2.9.5)
+[17:39:56] [Thread-8/INFO]: Download it at: <aqua><u><link:https://github.com/SkriptLang/Skript/releases/download/2.11.0/Skript-2.11.0.jar>https://github.com/SkriptLang/Skript/releases/download/2.11.0/Skript-2.11.0.jar
+[17:40:14] [Server thread/INFO]: [Skript] Loaded 233074 aliases in 18004ms
+[17:40:16] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[17:40:16] [Server thread/INFO]: [spark] Starting background profiler...
+[17:40:16] [Server thread/INFO]: Done preparing level "world" (27.966s)
+[17:40:16] [Server thread/ERROR]: Couldn't load server icon
 java.lang.IllegalStateException: Must be 64 pixels wide
 	at com.google.common.base.Preconditions.checkState(Preconditions.java:512) ~[guava-32.1.2-jre.jar:?]
 	at net.minecraft.server.MinecraftServer.lambda$loadStatusIcon$17(MinecraftServer.java:1553) ~[paper-1.21.jar:1.21-130-b1b5d4c]
@@ -64,91 +64,81 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1220) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[16:58:16] [Server thread/INFO]: Running delayed init tasks
-[16:58:16] [Server thread/INFO]: [Skript] Loading variables...
-[16:58:16] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
-[16:58:17] [Server thread/INFO]: [Skript] All scripts loaded without errors.
-[16:58:17] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 2 structures in 0.49 seconds
-[16:58:17] [Server thread/INFO]: [Skript] Finished loading.
-[16:58:17] [Server thread/INFO]: Done (45.012s)! For help, type "help"
-[16:58:17] [Server thread/INFO]: Timings Reset
-[16:58:24] [User Authenticator #0/INFO]: UUID of player SrT1soMars is a82ba0c5-8b3a-4937-b412-8560c0f42756
-[16:58:26] [User Authenticator #0/INFO]: UUID of player xArgon_SB is fca2f36c-0fe1-485c-99df-a61318f42e70
-[16:58:26] [Server thread/INFO]: SrT1soMars joined the game
-[16:58:27] [Server thread/INFO]: SrT1soMars[/127.230.49.215:35863] logged in with entity id 11 at ([world]9.5, -58.0, -1.5)
-[16:58:28] [Server thread/INFO]: xArgon_SB joined the game
-[16:58:28] [Server thread/INFO]: xArgon_SB[/127.246.80.119:53651] logged in with entity id 12 at ([world]1.5, -58.0, 6.5)
-[16:58:29] [Server thread/INFO]: SrT1soMars lost connection: Disconnected
-[16:58:29] [Server thread/INFO]: SrT1soMars left the game
-[16:58:34] [User Authenticator #0/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
-[16:58:36] [Async Chat Thread - #1/INFO]: <xArgon_SB> XD
-[16:58:36] [Server thread/INFO]: xTPR_MC joined the game
-[16:58:36] [Server thread/INFO]: xTPR_MC[/127.196.172.124:37507] logged in with entity id 13 at ([world]8.275555802181913, -58.0, 8.578414853233818)
-[16:58:41] [User Authenticator #0/INFO]: UUID of player SrT1soMars is a82ba0c5-8b3a-4937-b412-8560c0f42756
-[16:58:42] [Server thread/INFO]: SrT1soMars joined the game
-[16:58:42] [Server thread/INFO]: SrT1soMars[/127.230.49.215:39445] logged in with entity id 14 at ([world]9.5, -58.0, -1.5)
-[16:59:18] [Server thread/INFO]: xArgon_SB was slain by SrT1soMars
-[16:59:22] [Async Chat Thread - #1/INFO]: <SrT1soMars> ele
-[16:59:35] [Server thread/INFO]: SrT1soMars lost connection: Disconnected
-[16:59:35] [Server thread/INFO]: SrT1soMars left the game
-[16:59:36] [Async Chat Thread - #0/INFO]: <xArgon_SB> XD
-[16:59:38] [Server thread/INFO]: xArgon_SB was slain by xTPR_MC
-[16:59:46] [User Authenticator #1/INFO]: UUID of player SrT1soMars is a82ba0c5-8b3a-4937-b412-8560c0f42756
-[16:59:47] [Server thread/INFO]: SrT1soMars joined the game
-[16:59:47] [Server thread/INFO]: SrT1soMars[/127.230.49.215:60459] logged in with entity id 15 at ([world]-1.1164463982476018, -58.0, 9.568105080958059)
-[16:59:54] [Server thread/INFO]: SrT1soMars didn't want to live in the same world as xArgon_SB
-[16:59:56] [Server thread/INFO]: xArgon_SB fell out of the world
-[17:00:00] [Async Chat Thread - #0/INFO]: <xArgon_SB> XDDDDD
-[17:00:08] [Server thread/INFO]: SrT1soMars lost connection: Disconnected
-[17:00:08] [Server thread/INFO]: SrT1soMars left the game
-[17:00:13] [User Authenticator #1/INFO]: UUID of player SrT1soMars is a82ba0c5-8b3a-4937-b412-8560c0f42756
-[17:00:15] [Server thread/INFO]: SrT1soMars joined the game
-[17:00:15] [Server thread/INFO]: SrT1soMars[/127.230.49.215:47515] logged in with entity id 16 at ([world]8.749757471586616, -58.0, 2.8375421497302407)
-[17:00:17] [Server thread/INFO]: xTPR_MC issued server command: /respuestav tilin
-[17:00:17] [Server thread/INFO]: xArgon_SB issued server command: /respuestav pinga
-[17:00:26] [Server thread/INFO]: xTPR_MC issued server command: /gamemode creative
-[17:00:35] [Server thread/INFO]: xArgon_SB issued server command: /respuestav parangaricutirimicuaro
-[17:00:49] [Server thread/INFO]: xTPR_MC issued server command: /gamemode creative xArgon_SB
-[17:00:49] [Server thread/INFO]: [xTPR_MC: Set xArgon_SB's game mode to Creative Mode]
-[17:00:53] [Server thread/INFO]: xTPR_MC issued server command: /gamemode creative SrT1soMars
-[17:00:53] [Server thread/INFO]: [xTPR_MC: Set SrT1soMars's game mode to Creative Mode]
-[17:01:14] [Server thread/INFO]: xArgon_SB issued server command: /respuestav putomarselindemierdaojalaytematesmalditoretrasado
-[17:01:14] [Server thread/INFO]: xTPR_MC issued server command: /respuestav NicoPene
-[17:02:21] [Server thread/INFO]: xTPR_MC issued server command: /op xArgon_SB
-[17:02:21] [Server thread/INFO]: [xTPR_MC: Made xArgon_SB a server operator]
-[17:02:26] [Server thread/INFO]: xTPR_MC issued server command: /op SrT1soMars
-[17:02:26] [Server thread/INFO]: [xTPR_MC: Made SrT1soMars a server operator]
-[17:02:44] [Server thread/INFO]: xArgon_SB issued server command: /respuestav ay mi gatito miau miau
-[17:02:50] [Server thread/INFO]: SrT1soMars issued server command: /respuestav XDwaza
-[17:03:12] [Server thread/INFO]: Stopping the server
-[17:03:12] [Server thread/INFO]: Stopping server
-[17:03:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.5+6880-8ba3d89
-[17:03:12] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[17:03:12] [Server thread/INFO]: [Skript] Disabling Skript v2.9.5
-[17:03:12] [Server thread/INFO]: Saving players
-[17:03:12] [Server thread/INFO]: xTPR_MC lost connection: Server closed
-[17:03:12] [Server thread/INFO]: xTPR_MC left the game
-[17:03:12] [Server thread/INFO]: xArgon_SB lost connection: Server closed
-[17:03:12] [Server thread/INFO]: xArgon_SB left the game
-[17:03:12] [Server thread/INFO]: SrT1soMars lost connection: Server closed
-[17:03:12] [Server thread/INFO]: SrT1soMars left the game
-[17:03:12] [Server thread/INFO]: Saving worlds
-[17:03:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:03:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[17:03:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[17:03:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[17:03:13] [Server thread/INFO]: [ChunkHolderManager] Saved 728 block chunks, 728 entity chunks, 0 poi chunks in world 'world' in 1.03s
-[17:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:03:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[17:03:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[17:03:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[17:03:13] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.13s
-[17:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:03:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[17:03:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[17:03:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[17:03:13] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.06s
-[17:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:40:16] [Server thread/INFO]: Running delayed init tasks
+[17:40:16] [Server thread/INFO]: [Skript] Loading variables...
+[17:40:16] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[17:40:17] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[17:40:17] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 2 structures in 0.53 seconds
+[17:40:17] [Server thread/INFO]: [Skript] Finished loading.
+[17:40:17] [Server thread/INFO]: Done (70.633s)! For help, type "help"
+[17:40:17] [Server thread/INFO]: Timings Reset
+[17:40:17] [Server thread/INFO]: SrT1soMars (/127.230.49.215:60677) lost connection: Disconnected
+[17:40:21] [User Authenticator #0/INFO]: UUID of player xArgon_SB is fca2f36c-0fe1-485c-99df-a61318f42e70
+[17:40:23] [Server thread/INFO]: xArgon_SB joined the game
+[17:40:23] [User Authenticator #0/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
+[17:40:23] [Server thread/INFO]: xArgon_SB[/127.246.80.119:60079] logged in with entity id 11 at ([world]9.075664211316736, -58.0, 2.984229550803318)
+[17:40:25] [Server thread/INFO]: xTPR_MC joined the game
+[17:40:25] [Server thread/INFO]: xTPR_MC[/127.196.172.124:57201] logged in with entity id 12 at ([world]8.43646604551344, -58.0, 14.725964744963802)
+[17:40:30] [User Authenticator #0/INFO]: UUID of player SrT1soMars is a82ba0c5-8b3a-4937-b412-8560c0f42756
+[17:40:32] [Server thread/INFO]: SrT1soMars joined the game
+[17:40:32] [Server thread/INFO]: SrT1soMars[/127.230.49.215:46785] logged in with entity id 13 at ([world]7.5825905560238605, -54.0, 7.1365047588994175)
+[17:40:37] [Server thread/INFO]: xTPR_MC issued server command: /respuestav hola
+[17:40:45] [Server thread/INFO]: xArgon_SB issued server command: /kill SrT1soMars
+[17:40:45] [Server thread/INFO]: SrT1soMars was killed
+[17:40:45] [Server thread/INFO]: [xArgon_SB: Killed SrT1soMars]
+[17:40:56] [Server thread/INFO]: xTPR_MC issued server command: /respuestav hola
+[17:41:13] [Server thread/INFO]: xArgon_SB issued server command: /kill SrT1soMars
+[17:41:13] [Server thread/INFO]: SrT1soMars was killed
+[17:41:13] [Server thread/INFO]: [xArgon_SB: Killed SrT1soMars]
+[17:41:16] [Server thread/INFO]: xTPR_MC issued server command: /up 1
+[17:41:22] [Server thread/INFO]: xTPR_MC issued server command: /up 1
+[17:41:25] [Server thread/INFO]: SrT1soMars issued server command: /up 1
+[17:41:32] [Server thread/INFO]: xArgon_SB issued server command: /up 1
+[17:42:44] [Server thread/INFO]: SrT1soMars issued server command: /gamemode survival xArgon_SB
+[17:42:44] [Server thread/INFO]: [SrT1soMars: Set xArgon_SB's game mode to Survival Mode]
+[17:42:46] [Server thread/INFO]: xArgon_SB was slain by SrT1soMars
+[17:42:55] [Server thread/INFO]: xArgon_SB issued server command: /gamemode creative
+[17:42:55] [Server thread/INFO]: [xArgon_SB: Set own game mode to Creative Mode]
+[17:44:09] [Server thread/INFO]: xArgon_SB has made the advancement [Ice Bucket Challenge]
+[17:44:17] [Server thread/INFO]: SrT1soMars has completed the challenge [Cover Me in Debris]
+[17:44:23] [Server thread/INFO]: SrT1soMars has made the advancement [We Need to Go Deeper]
+[17:44:24] [Server thread/INFO]: xArgon_SB has made the advancement [We Need to Go Deeper]
+[17:44:38] [Server thread/INFO]: xTPR_MC issued server command: /tp @a
+[17:44:42] [Server thread/INFO]: xTPR_MC issued server command: /tp @a xTPR_MC
+[17:44:42] [Server thread/INFO]: [xTPR_MC: Teleported 3 entities to xTPR_MC]
+[17:45:01] [User Authenticator #1/INFO]: UUID of player NicoPeMC is 92ed71d5-fb1f-43c2-a9e4-e661993f2a3e
+[17:45:02] [Server thread/INFO]: NicoPeMC joined the game
+[17:45:02] [Server thread/INFO]: NicoPeMC[/127.241.141.254:51145] logged in with entity id 117 at ([world]4.5, -58.0, 5.5)
+[17:45:05] [Server thread/INFO]: SrT1soMars fell out of the world
+[17:45:24] [Server thread/INFO]: NicoPeMC fell out of the world
+[17:45:30] [Server thread/INFO]: NicoPeMC was slain by xArgon_SB
+[17:45:46] [Server thread/INFO]: NicoPeMC fell out of the world
+[17:45:49] [Server thread/INFO]: NicoPeMC was slain by xArgon_SB
+[17:45:49] [Async Chat Thread - #2/INFO]: <NicoPeMC> a
+[17:45:51] [Async Chat Thread - #2/INFO]: <xArgon_SB> XD
+[17:45:52] [Server thread/INFO]: NicoPeMC lost connection: Disconnected
+[17:45:52] [Server thread/INFO]: NicoPeMC left the game
+[17:45:56] [User Authenticator #1/INFO]: UUID of player NicoPeMC is 92ed71d5-fb1f-43c2-a9e4-e661993f2a3e
+[17:45:57] [Server thread/INFO]: NicoPeMC joined the game
+[17:45:57] [Server thread/INFO]: NicoPeMC[/127.241.141.254:37209] logged in with entity id 125 at ([world]8.305077706644084, -58.0, 7.925145336518255)
+[17:46:03] [Server thread/INFO]: NicoPeMC was slain by SrT1soMars
+[17:46:04] [Server thread/INFO]: xTPR_MC issued server command: /respuestav hola
+[17:46:14] [Server thread/INFO]: xTPR_MC issued server command: /respuestav hola
+[17:46:15] [Server thread/INFO]: NicoPeMC was slain by xArgon_SB
+[17:46:25] [Server thread/INFO]: NicoPeMC fell out of the world
+[17:46:39] [Server thread/INFO]: NicoPeMC didn't want to live in the same world as xArgon_SB
+[17:46:45] [Server thread/INFO]: NicoPeMC was slain by xArgon_SB
+[17:46:45] [Server thread/INFO]: NicoPeMC issued server command: /respuestav Callate
+[17:46:58] [Server thread/INFO]: NicoPeMC was slain by xArgon_SB
+[17:47:05] [Server thread/INFO]: xTPR_MC issued server command: /op NicoPeMC
+[17:47:05] [Server thread/INFO]: [xTPR_MC: Made NicoPeMC a server operator]
+[17:47:05] [Server thread/INFO]: SrT1soMars issued server command: /kill xArgon_SB
+[17:47:05] [Server thread/INFO]: xArgon_SB was killed
+[17:47:05] [Server thread/INFO]: [SrT1soMars: Killed xArgon_SB]
+[17:47:09] [Server thread/INFO]: xTPR_MC issued server command: /gamemode creative NicoPeMC
+[17:47:09] [Server thread/INFO]: [xTPR_MC: Set NicoPeMC's game mode to Creative Mode]
+[17:47:21] [Server thread/INFO]: xTPR_MC issued server command: /time set day
+[17:47:21] [Server thread/INFO]: [xTPR_MC: Set the time to 1000]
+[17:47:23] [Server thread/INFO]: SrT1soMars has made the advancement [Who Needs Rockets?]
+[17:47:51] [Server thread/INFO]: xArgon_SB has made the advancement [Spooky Scary Skeleton]
+[17:48:21] [Server thread/INFO]: xTPR_MC fell out of the world
