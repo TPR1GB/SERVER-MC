@@ -252,3 +252,136 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18:18:52] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 100
 [18:18:58] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 1
 [18:19:02] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 0.1
+[18:19:17] [Async Chat Thread - #8/INFO]: <NicoPeMC> ./attribute NicoPeMC minecraft:generic.scale base set 0.1
+[18:19:20] [Server thread/INFO]: NicoPeMC fell out of the world
+[18:19:38] [Server thread/INFO]: SrT1soMars issued server command: /gamemode survival NicoPeMC
+[18:19:38] [Server thread/INFO]: [SrT1soMars: Set NicoPeMC's game mode to Survival Mode]
+[18:19:42] [Server thread/INFO]: xArgon_SB issued server command: /attribute SrT1soMars minecraft:generic.scale base set 10000
+[18:19:47] [Server thread/INFO]: NicoPeMC fell out of the world
+[18:19:56] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 0.0001
+[18:20:04] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 0.001
+[18:20:24] [Server thread/INFO]: NicoPeMC issued server command: /attribute xTPR_MC minecraft:generic.scale base set 0.001
+[18:20:29] [Server thread/INFO]: xArgon_SB issued server command: /attribute xTPR_MC minecraft:generic.scale base set 100000000000000
+[18:20:39] [Server thread/INFO]: NicoPeMC issued server command: /attribute xArgon_SB minecraft:generic.scale base set 0.001
+[18:21:00] [Server thread/INFO]: NicoPeMC issued server command: /attribute xArgon_SB minecraft:generic.scale base set 100000
+[18:21:13] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 100000
+[18:21:15] [Server thread/INFO]: xArgon_SB issued server command: /respuestav pene
+[18:21:31] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 1
+[18:21:36] [Server thread/INFO]: NicoPeMC issued server command: /gamemode creative
+[18:21:36] [Server thread/INFO]: [NicoPeMC: Set own game mode to Creative Mode]
+[18:21:47] [Async Chat Thread - #10/INFO]: <NicoPeMC> ./attribute NicoPeMC minecraft:generic.scale base set 1
+[18:21:48] [Async Chat Thread - #11/INFO]: <NicoPeMC> ./attribute NicoPeMC minecraft:generic.scale base set 1
+[18:21:48] [Async Chat Thread - #11/INFO]: <NicoPeMC> ./attribute NicoPeMC minecraft:generic.scale base set 1
+[18:21:49] [Async Chat Thread - #11/INFO]: <NicoPeMC> ./attribute NicoPeMC minecraft:generic.scale base set 1
+[18:21:49] [Async Chat Thread - #10/INFO]: <NicoPeMC> ./attribute NicoPeMC minecraft:generic.scale base set 1
+[18:21:49] [Async Chat Thread - #10/INFO]: <NicoPeMC> ./attribute NicoPeMC minecraft:generic.scale base set 1
+[18:21:50] [Async Chat Thread - #11/INFO]: <NicoPeMC> ./attribute NicoPeMC minecraft:generic.scale base set 1
+[18:21:50] [Async Chat Thread - #11/INFO]: <NicoPeMC> ./attribute NicoPeMC minecraft:generic.scale base set 1
+[18:21:51] [Async Chat Thread - #10/INFO]: <NicoPeMC> ./attribute NicoPeMC minecraft:generic.scale base set 1
+[18:22:01] [Server thread/INFO]: xArgon_SB issued server command: /attribute xArgon_SB minecraft:generic.scale base set 1
+[18:22:12] [Server thread/INFO]: xTPR_MC issued server command: /attribute xTPR_MC minecraft:generic.scale base set 1
+[18:22:18] [Server thread/INFO]: xTPR_MC issued server command: /attribute xTPR_MC minecraft:generic.scale base set 0.5
+[18:22:25] [Server thread/INFO]: SrT1soMars issued server command: /attribute NicoPeMC minecraft:generic.scale base set 1
+[18:22:34] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 0.1
+[18:22:38] [Server thread/INFO]: xTPR_MC issued server command: /attribute SrT1soMars minecraft:generic.scale base set 0.5
+[18:22:38] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 0.5
+[18:22:41] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 0.2
+[18:22:44] [Server thread/INFO]: SrT1soMars fell out of the world
+[18:22:46] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 0.1
+[18:22:55] [Server thread/INFO]: xTPR_MC issued server command: /attribute SrT1soMars minecraft:generic.scale base set 0.01
+[18:22:59] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 000.1
+[18:22:59] [Server thread/INFO]: xTPR_MC issued server command: /attribute SrT1soMars minecraft:generic.scale base set 01
+[18:23:01] [Server thread/INFO]: xTPR_MC issued server command: /attribute SrT1soMars minecraft:generic.scale base set 1
+[18:23:02] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 0.001
+[18:23:06] [Server thread/INFO]: xTPR_MC issued server command: /attribute xTPR_MC minecraft:generic.scale base set 0.01
+[18:23:07] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 0.0001
+[18:23:07] [Server thread/INFO]: xArgon_SB issued server command: /attribute xArgon_SB minecraft:generic.scale base set 0.5
+[18:23:19] [Server thread/INFO]: xTPR_MC issued server command: /attribute xTPR_MC minecraft:generic.scale base set 0.0001
+[18:23:22] [Server thread/INFO]: xTPR_MC issued server command: /attribute xTPR_MC minecraft:generic.scale base set 0.1
+[18:23:48] [Server thread/INFO]: xTPR_MC issued server command: /attribute xTPR_MC minecraft:generic.scale base set 0.5
+[18:24:05] [Server thread/INFO]: SrT1soMars fell out of the world
+[18:24:10] [Server thread/INFO]: xTPR_MC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 0.5
+[18:24:12] [Server thread/INFO]: NicoPeMC fell out of the world
+[18:24:20] [Server thread/INFO]: NicoPeMC issued server command: /attribute NicoPeMC minecraft:generic.scale base set 0.5
+[18:24:27] [Server thread/INFO]: xArgon_SB issued server command: /tp @e xArgon_SB
+[18:24:28] [Server thread/INFO]: [xArgon_SB: Teleported 85 entities to xArgon_SB]
+[18:24:43] [Server thread/INFO]: NicoPeMC issued server command: /attribute @e minecraft:generic.scale base set 0.5
+[18:24:45] [Server thread/INFO]: xArgon_SB issued server command: /kill @e
+[18:24:45] [Server thread/INFO]: NicoPeMC was killed
+[18:24:45] [Server thread/INFO]: xTPR_MC was killed
+[18:24:45] [Server thread/INFO]: xArgon_SB was killed
+[18:24:45] [Server thread/INFO]: SrT1soMars was killed
+[18:24:45] [Server thread/INFO]: [xArgon_SB: Killed 84 entities]
+[18:24:57] [Server thread/INFO]: NicoPeMC issued server command: /attribute @e[ scores= 1
+[18:25:00] [Server thread/INFO]: xTPR_MC issued server command: /kill @e
+[18:25:01] [Server thread/INFO]: xArgon_SB was killed
+[18:25:01] [Server thread/INFO]: NicoPeMC was killed
+[18:25:01] [Server thread/INFO]: xTPR_MC was killed
+[18:25:01] [Server thread/INFO]: [xTPR_MC: Killed 109 entities]
+[18:25:03] [Server thread/INFO]: xTPR_MC issued server command: /kill @e
+[18:25:03] [Server thread/INFO]: xArgon_SB was killed
+[18:25:03] [Server thread/INFO]: NicoPeMC was killed
+[18:25:03] [Server thread/INFO]: xTPR_MC was killed
+[18:25:03] [Server thread/INFO]: [xTPR_MC: Killed 14 entities]
+[18:25:17] [Server thread/INFO]: xTPR_MC issued server command: /attribute SrT1soMars minecraft:generic.scale base set 0.5
+[18:25:26] [Server thread/INFO]: SrT1soMars issued server command: /attribute SrT1soMars minecraft:generic.scale base set 0
+[18:25:35] [Server thread/INFO]: xTPR_MC issued server command: /attribute SrT1soMars minecraft:generic.scale base set 0.5
+[18:26:01] [Server thread/INFO]: xArgon_SB issued server command: /kick SrT1soMars
+[18:26:01] [Server thread/INFO]: SrT1soMars lost connection: Kicked by an operator
+[18:26:01] [Server thread/INFO]: SrT1soMars left the game
+[18:26:01] [Server thread/INFO]: [xArgon_SB: Kicked SrT1soMars: Kicked by an operator]
+[18:26:07] [User Authenticator #4/INFO]: UUID of player SrT1soMars is a82ba0c5-8b3a-4937-b412-8560c0f42756
+[18:26:08] [Server thread/INFO]: SrT1soMars joined the game
+[18:26:08] [Server thread/INFO]: SrT1soMars[/127.230.49.215:33909] logged in with entity id 722 at ([world]6.448615417970217, -78.3273674033105, -17.439653627114193)
+[18:26:08] [Server thread/INFO]: NicoPeMC issued server command: /give @p[minecraft:death_protection=
+[18:26:14] [Server thread/INFO]: SrT1soMars fell out of the world
+[18:26:15] [Server thread/INFO]: xTPR_MC issued server command: /time set day
+[18:26:15] [Server thread/INFO]: [xTPR_MC: Set the time to 1000]
+[18:26:26] [Server thread/INFO]: xArgon_SB issued server command: /respuestav akae
+[18:26:45] [Server thread/INFO]: xTPR_MC issued server command: /attribute SrT1soMars minecraft:generic.scale base set 1
+[18:26:49] [Server thread/INFO]: SrT1soMars issued server command: /attribute SrT1soMars minecraft:generic.scale base set 0
+[18:26:51] [Server thread/INFO]: xArgon_SB issued server command: /respuestav akae
+[18:26:52] [Server thread/INFO]: xTPR_MC issued server command: /attribute xTPR_MC minecraft:generic.scale base set 1
+[18:26:57] [Server thread/INFO]: SrT1soMars issued server command: /attribute SrT1soMars minecraft:generic.scale base set 0.5
+[18:26:58] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:26:58] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:26:59] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:26:59] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:00] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:00] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:00] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:00] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:00] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:00] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:01] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:01] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:01] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:01] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:01] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:01] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:02] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:02] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:02] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:02] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:02] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:02] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:03] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:03] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:06] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:06] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:06] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:06] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:06] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:06] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:07] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:07] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:07] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:07] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:08] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:08] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:08] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:08] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:08] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:08] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
+[18:27:08] [Server thread/INFO]: NicoPeMC issued server command: /particle minecraft:sonic_boom
+[18:27:08] [Server thread/INFO]: [NicoPeMC: Displaying particle minecraft:sonic_boom]
