@@ -97,3 +97,15 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16:18:18] [Server thread/INFO]: xTPR_MC issued server command: //cyl minecraft:white_concrete 14 1
 [16:18:50] [Server thread/INFO]: xTPR_MC issued server command: /up 50
 [16:19:29] [Server thread/INFO]: xTPR_MC issued server command: //hcyl minecraft:black_concrete 15 1
+[16:20:00] [Server thread/INFO]: xTPR_MC issued server command: /respuestav hola
+[16:20:37] [Server thread/INFO]: xTPR_MC issued server command: //cyl minecraft:black_wool 15 1
+[16:20:48] [Server thread/INFO]: xTPR_MC issued server command: //cyl minecraft:white_wool 14 1
+[16:21:40] [Server thread/INFO]: xTPR_MC issued server command: //cyl minecraft:black_wool 15 1
+[16:21:48] [Server thread/INFO]: xTPR_MC issued server command: //undo
+[16:21:53] [Server thread/INFO]: xTPR_MC issued server command: //hcyl minecraft:black_wool 15 1
+[16:22:02] [Server thread/INFO]: xTPR_MC issued server command: /time set day
+[16:22:02] [Server thread/INFO]: [xTPR_MC: Set the time to 1000]
+[16:23:43] [Server thread/INFO]: xTPR_MC issued server command: //undo
+[16:24:24] [Server thread/INFO]: xTPR_MC issued server command: //fill air
+[16:24:38] [Server thread/INFO]: xTPR_MC issued server command: //set air
+[16:27:38] [Server thread/INFO]: xTPR_MC issued server command: /respuestav skibidi
