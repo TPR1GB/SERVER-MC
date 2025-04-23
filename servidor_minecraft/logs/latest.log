@@ -96,3 +96,18 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [21:53:14] [User Authenticator #1/INFO]: UUID of player NicoPeMC is 92ed71d5-fb1f-43c2-a9e4-e661993f2a3e
 [21:53:17] [Server thread/INFO]: NicoPeMC joined the game
 [21:53:17] [Server thread/INFO]: NicoPeMC[/127.241.141.254:36487] logged in with entity id 85 at ([world]2.393256934593502, -10.875, 8.724999994039536)
+[21:55:53] [Async Chat Thread - #3/INFO]: <xArgon_SB> XD
+[21:56:12] [User Authenticator #2/INFO]: UUID of player SrT1soMars is a82ba0c5-8b3a-4937-b412-8560c0f42756
+[21:56:14] [Server thread/INFO]: SrT1soMars joined the game
+[21:56:14] [Server thread/INFO]: SrT1soMars[/127.230.49.215:47809] logged in with entity id 86 at ([world]15.149121743501974, 12.086399974155427, 9.146371580398252)
+[21:57:17] [Async Chat Thread - #4/INFO]: <xArgon_SB> XD
+[21:57:35] [Server thread/INFO]: xArgon_SB issued server command: /msg xTPR_MC XDDDDDDDDDDDDDDDDDD
+[22:00:53] [Server thread/INFO]: NicoPeMC issued server command: /gamemode survival
+[22:00:53] [Server thread/INFO]: [NicoPeMC: Set own game mode to Survival Mode]
+[22:00:58] [Server thread/INFO]: NicoPeMC issued server command: /gamemode creative
+[22:00:58] [Server thread/INFO]: [NicoPeMC: Set own game mode to Creative Mode]
+[22:01:39] [Server thread/INFO]: xTPR_MC lost connection: Disconnected
+[22:01:39] [Server thread/INFO]: xTPR_MC left the game
+[22:01:42] [User Authenticator #3/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
+[22:01:44] [Server thread/INFO]: xTPR_MC joined the game
+[22:01:44] [Server thread/INFO]: xTPR_MC[/127.196.172.124:39317] logged in with entity id 95 at ([world]3.233142782501377, -56.0, -84.26753077571341)
