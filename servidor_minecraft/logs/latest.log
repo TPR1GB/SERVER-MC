@@ -87,3 +87,12 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [21:40:08] [Server thread/INFO]: xArgon_SB issued server command: /respuestav pasen porno
 [21:40:26] [Server thread/INFO]: xTPR_MC issued server command: //cyl quartz_block 15 1
 [21:40:44] [Server thread/INFO]: xArgon_SB issued server command: /respuestah pasen porno pasen porno
+[21:48:54] [Server thread/INFO]: xTPR_MC issued server command: /give xTPR_MC minecraft:barrier
+[21:48:54] [Server thread/INFO]: [xTPR_MC: Gave 1 [Barrier] to xTPR_MC]
+[21:50:10] [Server thread/INFO]: xTPR_MC fell out of the world
+[21:50:37] [Server thread/INFO]: xTPR_MC issued server command: //cyl grass_block 15 1
+[21:51:04] [Server thread/INFO]: xTPR_MC issued server command: /give xTPR_MC minecraft:light 15
+[21:51:04] [Server thread/INFO]: [xTPR_MC: Gave 15 [Light] to xTPR_MC]
+[21:53:14] [User Authenticator #1/INFO]: UUID of player NicoPeMC is 92ed71d5-fb1f-43c2-a9e4-e661993f2a3e
+[21:53:17] [Server thread/INFO]: NicoPeMC joined the game
+[21:53:17] [Server thread/INFO]: NicoPeMC[/127.241.141.254:36487] logged in with entity id 85 at ([world]2.393256934593502, -10.875, 8.724999994039536)
