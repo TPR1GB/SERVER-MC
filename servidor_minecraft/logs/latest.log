@@ -116,3 +116,5 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16:33:44] [Server thread/INFO]: xTPR_MC issued server command: /time set day
 [16:33:44] [Server thread/INFO]: [xTPR_MC: Set the time to 1000]
 [16:35:02] [Server thread/INFO]: xTPR_MC issued server command: /respuestav FreddyMamadas
+[16:41:05] [Server thread/INFO]: xTPR_MC lost connection: Disconnected
+[16:41:05] [Server thread/INFO]: xTPR_MC left the game
