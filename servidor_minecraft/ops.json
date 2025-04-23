@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "77510e86-4a7a-4b9a-8563-4fec5b745d56",
+    "name": "xTPR_MC",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
