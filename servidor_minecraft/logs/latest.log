@@ -111,3 +111,47 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [22:01:42] [User Authenticator #3/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
 [22:01:44] [Server thread/INFO]: xTPR_MC joined the game
 [22:01:44] [Server thread/INFO]: xTPR_MC[/127.196.172.124:39317] logged in with entity id 95 at ([world]3.233142782501377, -56.0, -84.26753077571341)
+[22:06:08] [Server thread/INFO]: NicoPeMC has made the advancement [Glow and Behold!]
+[22:09:26] [Server thread/INFO]: xArgon_SB issued server command: /attribute xArgon_SB minecraft:generic.scale base set 0.5
+[22:09:57] [Server thread/INFO]: xTPR_MC issued server command: /time set day
+[22:09:57] [Server thread/INFO]: [xTPR_MC: Set the time to 1000]
+[22:11:10] [Server thread/INFO]: xTPR_MC lost connection: Disconnected
+[22:11:10] [Server thread/INFO]: xTPR_MC left the game
+[22:11:13] [User Authenticator #4/INFO]: UUID of player xTPR_MC is 77510e86-4a7a-4b9a-8563-4fec5b745d56
+[22:11:14] [Server thread/INFO]: xTPR_MC joined the game
+[22:11:14] [Server thread/INFO]: xTPR_MC[/127.196.172.124:51511] logged in with entity id 110 at ([world]3.268876687991722, -56.0, -86.1555943538046)
+[22:12:32] [Server thread/INFO]: SrT1soMars fell out of the world
+[22:14:30] [Server thread/INFO]: xTPR_MC lost connection: Disconnected
+[22:14:30] [Server thread/INFO]: xTPR_MC left the game
+[22:14:34] [Server thread/INFO]: Stopping the server
+[22:14:34] [Server thread/INFO]: Stopping server
+[22:14:34] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.5+6880-8ba3d89
+[22:14:34] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:14:34] [Server thread/INFO]: [Skript] Disabling Skript v2.9.5
+[22:14:34] [Server thread/INFO]: Saving players
+[22:14:34] [Server thread/INFO]: xArgon_SB lost connection: Server closed
+[22:14:34] [Server thread/INFO]: xArgon_SB left the game
+[22:14:34] [Server thread/INFO]: NicoPeMC lost connection: Server closed
+[22:14:34] [Server thread/INFO]: NicoPeMC left the game
+[22:14:34] [Server thread/INFO]: SrT1soMars lost connection: Server closed
+[22:14:34] [Server thread/INFO]: SrT1soMars left the game
+[22:14:34] [Server thread/INFO]: Saving worlds
+[22:14:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:14:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:14:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:14:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:14:35] [Server thread/INFO]: [ChunkHolderManager] Saved 946 block chunks, 32 entity chunks, 0 poi chunks in world 'world' in 0.45s
+[22:14:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:14:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:14:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:14:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:14:35] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[22:14:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:14:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:14:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:14:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:14:35] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[22:14:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:14:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:14:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:14:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
