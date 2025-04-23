@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "fca2f36c-0fe1-485c-99df-a61318f42e70",
+    "name": "xArgon_SB",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "77510e86-4a7a-4b9a-8563-4fec5b745d56",
     "name": "xTPR_MC",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a82ba0c5-8b3a-4937-b412-8560c0f42756",
+    "name": "SrT1soMars",
     "level": 4,
     "bypassesPlayerLimit": false
   }
