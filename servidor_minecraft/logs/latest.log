@@ -128,3 +128,28 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [19:53:44] [Server thread/INFO]: [xArgon_SB: Teleported SrT1soMars to xArgon_SB]
 [19:53:46] [Server thread/INFO]: xTPR_MC issued server command: /tp SrT1soMars xTPR_MC
 [19:53:46] [Server thread/INFO]: [xTPR_MC: Teleported SrT1soMars to xTPR_MC]
+[20:03:05] [Server thread/INFO]: SrT1soMars fell out of the world
+[20:03:06] [Server thread/INFO]: xTPR_MC issued server command: /tp SrT1soMars xArgon_SB
+[20:03:06] [Server thread/INFO]: [xTPR_MC: Teleported SrT1soMars to xArgon_SB]
+[20:03:10] [Server thread/INFO]: SrT1soMars issued server command: /tp xTPR_MC
+[20:03:10] [Server thread/INFO]: [SrT1soMars: Teleported SrT1soMars to xTPR_MC]
+[20:03:21] [Server thread/INFO]: xTPR_MC issued server command: /gamemode survival
+[20:03:21] [Server thread/INFO]: [xTPR_MC: Set own game mode to Survival Mode]
+[20:03:30] [Server thread/INFO]: xTPR_MC issued server command: /gamemode creative
+[20:03:30] [Server thread/INFO]: [xTPR_MC: Set own game mode to Creative Mode]
+[20:03:37] [Server thread/INFO]: xTPR_MC has completed the challenge [Cover Me in Debris]
+[20:03:38] [Server thread/INFO]: SrT1soMars issued server command: /gamemode survival
+[20:03:38] [Server thread/INFO]: [SrT1soMars: Set own game mode to Survival Mode]
+[20:03:49] [Server thread/INFO]: xTPR_MC issued server command: /gamemode survival
+[20:03:49] [Server thread/INFO]: [xTPR_MC: Set own game mode to Survival Mode]
+[20:04:02] [Server thread/INFO]: SrT1soMars issued server command: /gamemode creative
+[20:04:02] [Server thread/INFO]: [SrT1soMars: Set own game mode to Creative Mode]
+[20:04:04] [Server thread/INFO]: SrT1soMars fell out of the world
+[20:04:43] [Server thread/INFO]: xTPR_MC issued server command: /gamemode creative
+[20:04:43] [Server thread/INFO]: [xTPR_MC: Set own game mode to Creative Mode]
+[20:05:13] [Server thread/INFO]: SrT1soMars issued server command: /tp xTPR_MC
+[20:05:13] [Server thread/INFO]: [SrT1soMars: Teleported SrT1soMars to xTPR_MC]
+[20:05:18] [Server thread/INFO]: SrT1soMars issued server command: /kill xArgon_SB
+[20:05:18] [Server thread/INFO]: xArgon_SB was killed
+[20:05:18] [Server thread/INFO]: [SrT1soMars: Killed xArgon_SB]
+[20:05:36] [Server thread/INFO]: xTPR_MC has made the advancement [Who Needs Rockets?]
