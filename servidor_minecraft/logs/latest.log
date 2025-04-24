@@ -198,3 +198,24 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [20:13:45] [Server thread/INFO]: xTPR_MC issued server command: //fill air
 [20:14:00] [Server thread/INFO]: xTPR_MC issued server command: //set air
 [20:14:16] [Server thread/INFO]: xTPR_MC issued server command: //set air
+[20:21:17] [Async Chat Thread - #6/INFO]: <xArgon_SB> XD
+[20:23:37] [Server thread/INFO]: xArgon_SB issued server command: /gamemode survival xTPR_MC
+[20:23:37] [Server thread/INFO]: [xArgon_SB: Set xTPR_MC's game mode to Survival Mode]
+[20:23:39] [Server thread/INFO]: xTPR_MC was slain by xArgon_SB
+[20:23:47] [Server thread/INFO]: xTPR_MC fell out of the world
+[20:23:49] [Server thread/INFO]: xTPR_MC issued server command: /gamemode creative
+[20:23:49] [Server thread/INFO]: [xTPR_MC: Set own game mode to Creative Mode]
+[20:24:00] [Server thread/INFO]: xTPR_MC issued server command: /setworldspawn
+[20:24:00] [Server thread/INFO]: [xTPR_MC: Set the world spawn point to 4, -56, -85 [0.0]]
+[20:24:06] [Server thread/INFO]: xTPR_MC issued server command: /kill @a
+[20:24:06] [Server thread/INFO]: xArgon_SB was killed
+[20:24:06] [Server thread/INFO]: xTPR_MC was killed
+[20:24:06] [Server thread/INFO]: [xTPR_MC: Killed 2 entities]
+[20:24:17] [Server thread/INFO]: xArgon_SB has made the advancement [Best Friends Forever]
+[20:25:26] [Server thread/INFO]: xArgon_SB issued server command: /gamemode survival xTPR_MC
+[20:25:26] [Server thread/INFO]: [xArgon_SB: Set xTPR_MC's game mode to Survival Mode]
+[20:25:43] [Server thread/INFO]: xArgon_SB issued server command: /give xTPR_MC minecraft:ender_eye 6400
+[20:25:43] [Server thread/INFO]: [xArgon_SB: Gave 6400 [Eye of Ender] to xTPR_MC]
+[20:25:46] [Server thread/INFO]: xArgon_SB issued server command: /give xTPR_MC minecraft:ender_eye 6400
+[20:25:46] [Server thread/INFO]: [xArgon_SB: Gave 6400 [Eye of Ender] to xTPR_MC]
+[20:25:47] [Server thread/INFO]: xArgon_SB issued server command: /give xTPR_MC minecraft:ender_eye 6400
