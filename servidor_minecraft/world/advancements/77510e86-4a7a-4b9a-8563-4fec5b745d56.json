@@ -713,5 +713,17 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-24 20:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-04-24 20:05:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

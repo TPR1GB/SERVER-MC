@@ -153,3 +153,48 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [20:05:18] [Server thread/INFO]: xArgon_SB was killed
 [20:05:18] [Server thread/INFO]: [SrT1soMars: Killed xArgon_SB]
 [20:05:36] [Server thread/INFO]: xTPR_MC has made the advancement [Who Needs Rockets?]
+[20:06:01] [Server thread/INFO]: xTPR_MC issued server command: /gamemode survival SrT1soMars
+[20:06:01] [Server thread/INFO]: [xTPR_MC: Set SrT1soMars's game mode to Survival Mode]
+[20:06:12] [Server thread/INFO]: SrT1soMars issued server command: /tp xTPR_MC
+[20:06:12] [Server thread/INFO]: [SrT1soMars: Teleported SrT1soMars to xTPR_MC]
+[20:06:12] [Server thread/INFO]: SrT1soMars fell from a high place
+[20:06:18] [Server thread/INFO]: SrT1soMars issued server command: /tp xtp
+[20:06:19] [Server thread/INFO]: SrT1soMars fell out of the world
+[20:06:24] [Server thread/INFO]: SrT1soMars issued server command: /tp xTPR_MC
+[20:06:24] [Server thread/INFO]: [SrT1soMars: Teleported SrT1soMars to xTPR_MC]
+[20:06:25] [Server thread/INFO]: SrT1soMars fell from a high place
+[20:06:30] [Server thread/INFO]: SrT1soMars issued server command: /tp xtr
+[20:06:31] [Server thread/INFO]: xTPR_MC issued server command: /gamemode creative SrT1soMars
+[20:06:31] [Server thread/INFO]: [xTPR_MC: Set SrT1soMars's game mode to Creative Mode]
+[20:06:31] [Server thread/INFO]: SrT1soMars fell out of the world
+[20:06:38] [Server thread/INFO]: xTPR_MC issued server command: /tp SrT1soMars xArgon_SB
+[20:06:38] [Server thread/INFO]: [xTPR_MC: Teleported SrT1soMars to xArgon_SB]
+[20:08:44] [Server thread/INFO]: xTPR_MC issued server command: //hsphere minecraft:glass 20 1
+[20:09:14] [Server thread/INFO]: xTPR_MC issued server command: //hsphere minecraft:glass 16
+[20:09:26] [Server thread/INFO]: xTPR_MC issued server command: //undo
+[20:09:32] [Server thread/INFO]: xTPR_MC issued server command: //hsphere minecraft:glass 20
+[20:10:08] [Async Chat Thread - #4/INFO]: <SrT1soMars> doDaylightCycle
+[20:10:11] [Server thread/INFO]: xTPR_MC issued server command: //undo
+[20:10:35] [Server thread/INFO]: xTPR_MC issued server command: /time set day
+[20:10:35] [Server thread/INFO]: [xTPR_MC: Set the time to 1000]
+[20:10:43] [Server thread/INFO]: xTPR_MC issued server command: //hsphere minecraft:glass 30
+[20:10:57] [Server thread/INFO]: SrT1soMars issued server command: /gamerule doDaylightCycle true
+[20:10:57] [Server thread/INFO]: [SrT1soMars: Gamerule doDaylightCycle is now set to: true]
+[20:11:06] [Server thread/INFO]: SrT1soMars issued server command: /time set day
+[20:11:06] [Server thread/INFO]: [SrT1soMars: Set the time to 1000]
+[20:11:23] [Server thread/INFO]: xTPR_MC issued server command: //undo
+[20:11:44] [Server thread/INFO]: xTPR_MC issued server command: //fixlava
+[20:11:47] [Server thread/INFO]: xTPR_MC issued server command: //fixlava 1
+[20:11:54] [Server thread/INFO]: SrT1soMars fell out of the world
+[20:11:58] [Server thread/INFO]: SrT1soMars issued server command: /tp xTPR_MC
+[20:11:58] [Server thread/INFO]: [SrT1soMars: Teleported SrT1soMars to xTPR_MC]
+[20:12:03] [Server thread/INFO]: xTPR_MC issued server command: //fixlava 1
+[20:12:08] [Server thread/INFO]: xTPR_MC issued server command: //undo
+[20:12:57] [Server thread/INFO]: xTPR_MC issued server command: /tp xArgon_SB xTPR_MC
+[20:12:57] [Server thread/INFO]: Attempt to teleport removed player xArgon_SB restricted
+[20:12:57] [Server thread/INFO]: [xTPR_MC: Teleported xArgon_SB to xTPR_MC]
+[20:13:43] [Server thread/INFO]: SrT1soMars lost connection: Disconnected
+[20:13:43] [Server thread/INFO]: SrT1soMars left the game
+[20:13:45] [Server thread/INFO]: xTPR_MC issued server command: //fill air
+[20:14:00] [Server thread/INFO]: xTPR_MC issued server command: //set air
+[20:14:16] [Server thread/INFO]: xTPR_MC issued server command: //set air
